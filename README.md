@@ -75,4 +75,7 @@ Bugs and Improvements :-
 No known bugs. Summary can't be as perfect as humans can do.
 Audio feature will be added soon, so that you can listen the summary too if you want.
 
+*OUTPUT* :-
+![Image](https://github.com/user-attachments/assets/f69a90b4-01e4-4d51-8320-c5f26cef4544)
+
 Dev :- Maheshwari Mahajan
